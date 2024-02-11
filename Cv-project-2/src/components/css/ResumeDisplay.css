@@ -1,0 +1,40 @@
+.resumeDisplay{
+    max-width: 1000px;
+    margin: auto;
+    border: solid 2px black;
+    padding: 20px;
+    margin-top: 20px;
+    min-height: 550px;
+}
+.contactDisplay{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+    border-top: 3px solid  black;
+}
+.contactInfo{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+.nameDisplay{
+    text-align: center;
+    font-weight: bold;
+}
+.sectionTitle{
+    font-weight: bold;
+    margin: 10px 0;
+    color : green;
+}
+.educationDisplay{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+    border-top: 3px solid  black;
+}
+.experienceDisplay{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+    border-top: 3px solid  black;
+}
